@@ -1,2 +1,2 @@
-# Double-Q-PI
-Double Q-PI architecture for smart model-free control of canals
+# FDouble_QL
+FDouble_QL Algorithm to control canals
